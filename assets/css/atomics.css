@@ -1,0 +1,17 @@
+.layout {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--bg-main);
+}
+
+.grid-container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* .flex {
+
+} */
+
+/* .text- */
